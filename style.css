@@ -1,0 +1,251 @@
+body{
+    background: url('mainpge.jpg');
+
+    
+}
+/* .left{
+    display: inline-block;
+    position: absolute;
+   top: 40px;
+   left : 20px;
+}
+ .left img{
+    width: 200px;
+    
+ }   */
+ /* .mid{
+    margin: 12px auto;
+    display: flex;
+
+    width: 100%;
+    
+ } */
+ .navbar{
+    margin-top:-6px;
+    margin-left: -10px;
+    align-items: center;
+    justify-content:end;
+    display: flex;
+    
+    height: 60px;
+    background: rgb(68, 68, 69);
+   }
+
+.navbar li{
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+}
+.navbar li a{
+    font-style: italic;
+    color: #fff;
+    text-decoration: none;
+    margin: 0 25px;
+}
+.navbar li a:hover{
+    text-decoration:underline;
+    color:aqua;
+}
+ 
+   .right{
+    /* margin: 8%; */
+    position: absolute;
+    left: 900px;
+    top: 220px;
+   }
+   .image2{
+    width: 350px;
+    border-radius: 30px;
+
+   }
+   .container h1{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    font-size: 30px;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #fff;
+    }
+    .container h1:hover{
+        color: brown;
+    }
+    .container p{
+        position: absolute;
+        top: 300px;
+        left: 200px;
+        /* box-shadow: 4px 8px 4px 4px #888888; */
+        box-shadow: 0 8px 6px -6px rgb(189, 189, 133);
+
+        font-size: 20px;
+        color: #fff;
+
+    }
+    .mobo {
+        position: absolute;
+    
+    }
+    .mobo h4{
+        position: relative;
+        top: 880px;
+        left: 420px;
+        color: #fff;
+        text-align: center;
+        font-size: 35px;
+        cursor: pointer;
+    }
+    .mobo h4:hover{
+        color: brown;
+        text-decoration: underline;
+    }
+    .box
+    {
+        width: 570px;
+        height: 340px;
+        padding-left: 5px;
+        border: 2px solid #fff;
+        border-radius: 30px;
+        box-shadow: 5px 10px 8px 10px #888888;
+        position: relative;
+        top: 900px;
+        left: 420px;
+        font-size: 24px;
+    }
+    #box1{background-color:  	#ffe4c4;
+        opacity: 0.4;}
+    .lulu{
+        /* margin: 8%; */
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        /* filter: invert(100%); */
+        width: 20px;
+        height: 30px;
+
+       }
+       .image{
+        width: 189px;
+        height: 40px;
+        border-radius: 30px;
+
+        
+       }
+       .mob {
+        position: absolute;
+    
+    }
+    .mob h5{
+        position: relative;
+        top: 1300px;
+        left: 490px;
+        color: #fff;
+        text-align: center;
+        font-size: 35px;
+        cursor: pointer;
+    }
+    .mob h5:hover{
+        color: brown;
+        text-decoration: underline;
+    }
+    .box2
+    {
+        width: 400px;
+        height: 120px;
+        padding-left: 5px;
+        border: 2px solid #fff;
+        border-radius: 30px;
+        box-shadow: 5px 10px 8px 10px #888888;
+
+        position: relative;
+        top: 1300px;
+        left: 500px;
+        font-size: larger;
+    }
+    #box2{background-color:  	#ffe4c4;
+        opacity: 0.4;
+    }
+    .tulip{
+        position: relative;
+        top: 1250px;
+        left: 220px;    }
+    #btn{
+    padding: 0.5px;
+    position: relative;
+    top: 1250px;
+        left: 220px;
+        background-color: red;
+        font-size: medium;
+        border: 2px solid black;
+        border-radius: 3px;
+        cursor: pointer;
+   }
+   .lit {
+    position: absolute;
+
+}
+.lit h6{
+    position: relative;
+    top: 1600px;
+    left: 460px;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+}
+.lit h6:hover{
+    color: brown;
+    text-decoration: underline;
+}
+.box3
+{
+    width: 500px;
+    height: 120px;
+    padding-left: 5px;
+    border: 2px solid black;
+    border-radius: 30px;
+    box-shadow: 5px 10px 8px 10px #888888;
+
+    position: relative;
+    top: 1560px;
+    left: 500px;
+    font-size: larger;
+}
+#box3{background-color:  	#ffe4c4;
+    opacity: 0.4;}
+.lit {
+    position: absolute;
+
+}
+.lamp h2{
+    position: relative;
+    top: 1940px;
+    left: 50px;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    cursor: pointer;
+}
+.lamp h2:hover{
+    color: brown;
+    text-decoration: underline;
+}
+.box4
+{
+    width: 500px;
+    height:70px;
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    box-shadow: 5px 10px 8px 10px #888888;
+
+    position: relative;
+    top: 1940px;
+    left: 500px;
+    font-size: larger;
+}
+
+#box4{background-color:  	#ffe4c4;
+    opacity: 0.4;}
+    
+
+    
